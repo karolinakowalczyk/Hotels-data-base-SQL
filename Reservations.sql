@@ -1,0 +1,26 @@
+insert into Reservations (room_id, user_id, date_start, date_end) values (176, 20, '2020-12-18', '2022-11-09');
+insert into Reservations (room_id, user_id, date_start, date_end) values (56, 5, '2021-03-11', '2021-03-29');
+insert into Reservations (room_id, user_id, date_start, date_end) values (187, 6, '2021-08-30', '2022-10-09');
+insert into Reservations (room_id, user_id, date_start, date_end) values (104, 38, '2021-01-19', '2021-09-14');
+insert into Reservations (room_id, user_id, date_start, date_end) values (36, 1, '2020-04-08', '2020-12-25');
+insert into Reservations (room_id, user_id, date_start, date_end) values (144, 26, '2021-05-10', '2021-08-24');
+insert into Reservations (room_id, user_id, date_start, date_end) values (26, 17, '2021-02-18', '2022-07-23');
+insert into Reservations (room_id, user_id, date_start, date_end) values (165, 16, '2020-08-16', '2020-12-31');
+insert into Reservations (room_id, user_id, date_start, date_end) values (106, 29, '2021-05-03', '2021-05-15');
+insert into Reservations (room_id, user_id, date_start, date_end) values (48, 15, '2021-06-01', '2022-10-13');
+insert into Reservations (room_id, user_id, date_start, date_end) values (24, 28, '2021-02-18', '2022-08-31');
+insert into Reservations (room_id, user_id, date_start, date_end) values (176, 46, '2022-04-02', '2022-08-21');
+insert into Reservations (room_id, user_id, date_start, date_end) values (174, 28, '2021-05-06', '2021-12-06');
+insert into Reservations (room_id, user_id, date_start, date_end) values (16, 17, '2021-07-28', '2021-07-31');
+insert into Reservations (room_id, user_id, date_start, date_end) values (130, 28, '2021-05-12', '2022-08-26');
+insert into Reservations (room_id, user_id, date_start, date_end) values (67, 42, '2021-02-05', '2022-01-23');
+insert into Reservations (room_id, user_id, date_start, date_end) values (134, 39, '2021-04-26', '2022-06-04');
+insert into Reservations (room_id, user_id, date_start, date_end) values (142, 23, '2022-05-16', '2022-09-02');
+insert into Reservations (room_id, user_id, date_start, date_end) values (60, 38, '2020-12-19', '2021-01-01');
+insert into Reservations (room_id, user_id, date_start, date_end) values (198, 44, '2021-01-15', '2021-08-02');
+
+insert into Reservations (room_id, user_id, date_start, date_end) values (20, 2, '2020-12-01', '2020-12-20');
+insert into Reservations (room_id, user_id, date_start, date_end) values (30, 39, '2020-12-07', '2020-12-24');
+insert into Reservations (room_id, user_id, date_start, date_end) values (142, 23, '2020-12-06', '2020-12-30');
+insert into Reservations (room_id, user_id, date_start, date_end) values (2, 40, '2020-11-29', '2021-01-01');
+insert into Reservations (room_id, user_id, date_start, date_end) values (199, 3, '2020-12-02', '2020-12-25');
